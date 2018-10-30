@@ -2,4 +2,6 @@
     <string name="app_name">GoogleMaterial</string>
     <string name="about">About</string>
     <string name="Exit">Exit</string>
+    <string name="hello_world">Hello World</string>
+    <string name="pawan">Pawan</string>
 </resources>

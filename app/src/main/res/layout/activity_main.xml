@@ -17,11 +17,11 @@
 
     />
     <TextView
-            android:text="Hello World"
+            android:text="@string/hello_world"
             android:layout_width="165dp"
             android:textColor="@color/colorPrimary"
             android:textSize="25sp"
-            
+
             android:textStyle="bold"
             android:gravity="fill"
             android:layout_height="48dp"

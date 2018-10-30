@@ -9,5 +9,9 @@
         android:title="@string/Exit"
         android:id="@+id/Ex"/>
 
+    <item
+        android:title="@string/pawan"
+        android:id="@+id/Pawan"/>
+
 
 </menu>
