@@ -9,6 +9,10 @@
         android:title="@string/Exit"
         android:id="@+id/Ex"/>
 
+    <item
+        android:title="@string/github"
+        android:id="@+id/GIT"/>
+
 
 
 
